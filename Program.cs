@@ -832,6 +832,7 @@ namespace Algoritmi
 
 
             Dijamant3();
+            Dijamant2();
             Console.ReadLine();
         }
     }
