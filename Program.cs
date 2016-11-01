@@ -829,6 +829,9 @@ namespace Algoritmi
         static void Main(string[] args)
         {
             Console.WriteLine(Faktorijel(5));
+
+
+            Dijamant3();
             Console.ReadLine();
         }
     }
