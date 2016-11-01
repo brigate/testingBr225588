@@ -828,7 +828,7 @@ namespace Algoritmi
         #endregion
         static void Main(string[] args)
         {
-            Console.WriteLine(Faktorijel(2));
+            Console.WriteLine(Faktorijel(5));
             Console.ReadLine();
         }
     }
