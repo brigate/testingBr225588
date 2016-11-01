@@ -1,0 +1,5 @@
+C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\Algoritmi\Algoritmi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\Algoritmi\Algoritmi\bin\Debug\Algoritmi.exe
+C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\Algoritmi\Algoritmi\bin\Debug\Algoritmi.pdb
+C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\Algoritmi\Algoritmi\obj\Debug\Algoritmi.exe
+C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\Algoritmi\Algoritmi\obj\Debug\Algoritmi.pdb
